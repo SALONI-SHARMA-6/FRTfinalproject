@@ -1,7 +1,7 @@
 ## Future Ready Talent project by Saloni Sharma
 I have created a hotels and resorts web apps named Hotels that helps people to find hotel rooms and hotel packages according to their choices and preferences and at reasonable rates, to make their journeys, business tours and vacations more fulfilling, enjoyable, hassleless and stress-free.
 
-## my website link: https://purple-pond-03f306910.1.azurestaticapps.net 
+## my website link: https://delightful-pond-027531410.1.azurestaticapps.net
 
 ## Home page
 ![Screenshot (3783)](https://user-images.githubusercontent.com/106542447/171647606-18255258-5b2b-4db8-ac78-36ebe855532c.png)
